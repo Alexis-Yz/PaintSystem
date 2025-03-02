@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/move.png</file>
+        <file>images/polyline.png</file>
+        <file>images/rectangle.png</file>
+        <file>images/save.png</file>
+        <file>images/new.png</file>
+        <file>images/select.png</file>
+        <file>images/open.png</file>
+        <file>images/about.png</file>
+        <file>images/fill.png</file>
+        <file>images/delete.png</file>
+        <file>images/ellipse.png</file>
+        <file>images/line.png</file>
+        <file>images/logo.png</file>
+        <file>images/help.png</file>
+    </qresource>
+</RCC>
